@@ -13,6 +13,8 @@
    email : ikerluke@example.com
    password : password
 
+   db sql link : https://github.com/gedehariyogananda/anakdetik-task/blob/main/anakdetik.sql
+
    ```
    ![image](https://github.com/user-attachments/assets/a462a5a2-402b-41fa-b4d5-453c045ece97)
     
